@@ -1,5 +1,5 @@
 ### Hi, I'm Shreyat Pandey 👋
-I am passionate about networking architecture and protocol, distributed system, wireless networking in (LTE,NR/5G, Wifi), operating system, networking architecture for AI(RDMA)
+🔥 I am passionate about networking architecture and protocol, distributed system, wireless networking in (LTE,NR/5G, Wifi), operating system, networking architecture for AI(RDMA)
 
 - 🔭 Currently a senior software engineer at Qualcomm
 
