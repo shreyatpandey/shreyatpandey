@@ -4,10 +4,10 @@
 - 🔭 Currently a senior software engineer at Qualcomm
 
 <hr>
-- 🍀 &nbsp;Software Engineer<a href="https://www.microsoft.com/en-in" target="_blank">@Microsoft</a><br>
+- 🍀 &nbsp;Software Engineer <a href="https://www.microsoft.com/en-in" target="_blank">@Microsoft</a><br>
 - 📱 &nbsp;Cellular Software <a href="https://www.qualcomm.com/" target="_blank">@Qualcomm</a><br>
 - 💻 &nbsp;Cellular Software Internship <a href="https://https://www.intel.com/content/www/us/en/homepage.html/" target="_blank">@Intel</a><br>
-- 🎓 &nbsp;EE <a href="https://www.usc.edu/" target="_blank">@USC</a><br>
+- 🎓 &nbsp;M.S in EE <a href="https://www.usc.edu/" target="_blank">@USC</a><br>
 
 <!--
 **shreyatpandey/shreyatpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
