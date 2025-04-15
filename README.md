@@ -2,6 +2,7 @@
 
 - 🔭 Currently a software engineer at Qualcomm
 
+- 🎓 &nbsp;EE <a href="https://www.usc.edu/" target="_blank">@USC</a><br>
 
 <!--
 **shreyatpandey/shreyatpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
