@@ -1,4 +1,7 @@
-### Hi I'm Shreyat Pandey 👋
+### Hi, I'm Shreyat Pandey 👋
+
+- 🔭 Currently a software engineer at Qualcomm
+
 
 <!--
 **shreyatpandey/shreyatpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
