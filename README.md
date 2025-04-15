@@ -1,11 +1,10 @@
 ### Hi, I'm Shreyat Pandey 👋
 🔥 I am passionate about networking architecture and protocol, distributed system, wireless networking in (LTE,NR/5G, Wifi), operating system, networking architecture for AI(RDMA)
 
-- 🔭 Currently a senior software engineer at Qualcomm
 
 <hr>
+- 🔭 &nbsp;Senior Software <a href="https://www.qualcomm.com/" target="_blank">@Qualcomm</a><br>
 - 🍀 &nbsp;Software Engineer <a href="https://www.microsoft.com/en-in" target="_blank">@Microsoft</a><br>
-- 📱 &nbsp;Cellular Software <a href="https://www.qualcomm.com/" target="_blank">@Qualcomm</a><br>
 - 💻 &nbsp;Cellular Software Internship <a href="https://https://www.intel.com/content/www/us/en/homepage.html/" target="_blank">@Intel</a><br>
 - 🎓 &nbsp;M.S in EE <a href="https://www.usc.edu/" target="_blank">@USC</a><br>
 
