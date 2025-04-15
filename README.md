@@ -2,6 +2,7 @@
 
 - 🔭 Currently a software engineer at Qualcomm
 
+<hr>
 - 📱 &nbsp;Cellular Software <a href="https://www.qualcomm.com/" target="_blank">@Qualcomm</a><br>
 - 💻 &nbsp;Cellular Software Internship <a href="https://https://www.intel.com/content/www/us/en/homepage.html/" target="_blank">@Intel</a><br>
 - 🎓 &nbsp;EE <a href="https://www.usc.edu/" target="_blank">@USC</a><br>
